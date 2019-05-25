@@ -1,2 +1,3 @@
-	name: Romain Thomas, Fellow Astronomer, European Southern Observatory
-	markdown: kramdown
+name: Romain Thomas, Fellow Astronomer, European Southern Observatory
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
