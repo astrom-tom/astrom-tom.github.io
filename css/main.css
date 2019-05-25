@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+p.cauthors { color:rgb(0, 204, 255)}
+p.me { color:red}
+p.subm {color:rgb(255, 0, 255)}
+p.acc {color:rgb(255, 255, 102)}
+
